@@ -28,4 +28,4 @@ https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-p
 
 //Princípio da Responsabilidade Única — Uma classe deve ter um, e somente um, motivo para mudar.
 
-//Esse princípio declara que uma classe deve ser especializada em um único assunto e possuir apenas uma responsabilidade dentro do software, ou seja, a classe deve ter uma única tarefa ou ação para executar. Perceba no exemplo acima que temos 3 classes, cada uma cuidando da sua função: class Order, class OrderRepository, class OrderViewer.
+//Esse princípio declara que uma classe deve ser especializada em um único assunto e possuir apenas uma responsabilidade dentro do software, ou seja, a classe deve ter uma única tarefa ou ação para executar. Perceba no exemplo acima que temos 3 classes, cada uma cuidando da sua função: class Order cuidando da lógica de negócios, class OrderRepository cuidando da persistência de dados e a class OrderViewer cuidando da apresentação visual.
