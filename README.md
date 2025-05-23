@@ -1,1 +1,1 @@
-git@github.com:elisahiroki/SOLID.git
+SOLID.md
